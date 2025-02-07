@@ -10,5 +10,5 @@ Managers can recertify their employees access rights
     - Microsoft Active Directory named "AD"
 
 
-#Screenshots
+# Screenshots
 ![image](https://github.com/user-attachments/assets/355663e3-281c-4c95-a4b5-f734fa3f4a84)
